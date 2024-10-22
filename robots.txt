@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elavaoze.github.io/Mdc/sitemap_index.txt.gz
+Sitemap: https://elavaoze.github.io/dio/sitemap_index.txt.gz
+Sitemap: https://elavaoze.github.io/kcm/sitemap_index.txt.gz
+Sitemap: https://elavaoze.github.io/uQy/sitemap_index.txt.gz
+Sitemap: https://elavaoze.github.io/yNW/sitemap_index.txt.gz
